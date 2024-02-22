@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">"store app"</string>
+    <string name="facebook_app_id">851320073357950</string>
+    <string name="fb_login_protocol_scheme">fe566dcce4cbbd3240ec5a4ebf9339d2</string>
+    <string name="facebook_client_token">a47b75845c2bf7ee64e3bd1b6c502f3f</string>
+</resources>
